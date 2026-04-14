@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
       title: 'Firebase Cloud Messaging',
       home: Scaffold(
         appBar: AppBar(title: const Text('Cloud Messaging')),
-        body: const Center(child: Text('Hello')),
+        body: const Center(child: Text('Editing')),
       ),
     );
   }
